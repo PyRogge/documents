@@ -1,0 +1,17 @@
+
+CTRL + B            --> Explorer left side on/off
+CTRL + J            --> Terminal on/off
+CTRL + N            --> New file
+CTRL + O            --> File open
+CTRL + G + xx       --> Go to line number xx
+CTRL + X            --> Delete line
+ALT + UP/DOWN       --> Move line up or down
+CTRL + SHIFT + A    --> Block comment
+ALT + SHIFT         --> Save all open files (self made)
+CTRL + SHIFT + `    --> switch to internal terminal
+CTRL + SHIFT + +    --> maximize teh internal terminal
+
+
+
+
+CTRL + ALT + ->     --> switch to the secont screen
