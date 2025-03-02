@@ -1,0 +1,4 @@
+sudo fsck -y /dev/sda1
+sudo ntfsfix /dev/sda1
+sudo mkdir -p /media/winextfp
+sudo mount /dev/sda1 /media/winextfp
